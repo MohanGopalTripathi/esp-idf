@@ -1,4 +1,4 @@
-# Install script for directory: C:/projects/esp32/test1/main
+# Install script for directory: C:/projects/esp-idf/test1/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

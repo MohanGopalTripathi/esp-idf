@@ -34,8 +34,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/projects/esp32/test1/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
-  include("C:/projects/esp32/test1/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
+  include("C:/projects/esp-idf/test1/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake")
+  include("C:/projects/esp-idf/test1/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake")
 
 endif()
 
