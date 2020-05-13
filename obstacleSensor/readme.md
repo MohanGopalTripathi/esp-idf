@@ -6,7 +6,7 @@ It is a very easy program which turn on and tirns off the on board LED when dete
 
 
 
-##Sensor 
+## Sensor 
 
 ![obstacle sensor](obstacleSensor.png)
 
