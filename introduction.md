@@ -1,1 +1,1 @@
-![alt text](https://www.dropbox.com/s/48rijpdfxfhlfpf/mhetlive.png?dl=0)
+![](https://www.dropbox.com/s/48rijpdfxfhlfpf/mhetlive.png?dl=0)
