@@ -6,9 +6,9 @@ It is a very easy program which turn on and tirns off the on board LED when dete
 
 
 
-## Board Used
+##Sensor 
 
-ESP32 developement board which was used is MH ETLive Mini32 . 
+![obstacle sensor](obstacleSensor.png)
 
 
 
